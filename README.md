@@ -1,2 +1,2 @@
-# tuana-sultan-kodlar
-Basit seviyeden ileri seviyeye kodlar
+# tuana-sultan-projects
+From Basic to Intermadiate
